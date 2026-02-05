@@ -1,0 +1,15 @@
+name: LeetCode Heatmap
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create GitHub commits from LeetCode activity
+        uses: jaywcjlove/leetcode-badge-action@main
+        with:
+          leetcode_username: benmega500
