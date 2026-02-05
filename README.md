@@ -87,4 +87,19 @@ Government College of Engineering, Thanjavur
 
 ---
 
+---
+
+## 🧠 LeetCode Progress
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=benmega500)
+
+- Solved **147+ problems** across Easy, Medium, and Hard
+- Regular practice in DSA and algorithmic problem-solving
+- Strong focus on Arrays, Strings, Hash Tables, Trees, and Dynamic Programming  
+
+🔗 LeetCode Profile: https://leetcode.com/u/benmega500/
+
+---
+
+
 ⭐ *Feel free to explore my repositories and connect with me!*  
