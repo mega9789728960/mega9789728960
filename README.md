@@ -95,7 +95,7 @@ A full-stack web application designed to streamline and digitize hostel operatio
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=benmega500&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/benmega500?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
