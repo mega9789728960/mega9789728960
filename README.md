@@ -44,29 +44,45 @@ I am a curious and dedicated Software Developer who enjoys solving real-world pr
 
 ## 📌 Featured Projects
 
-<div align="center">
+### 🏨 Hostel Management System | Full-Stack Developer (PERN Stack)
 
-### 🏨 Hostel Management System
-*College Hostel Operations Management*
-
-</div>
-
-> 📅 **Oct 2025 – Present**
+<p>
+  <a href="https://chozha-boys-hostel-management-syste.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_App-6C63FF?style=for-the-badge" alt="Live App" /></a>
+  <a href="https://github.com/mega9789728960/Hostel_Management_Backend"><img src="https://img.shields.io/badge/⚙️_Backend_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Code" /></a>
+  <a href="https://github.com/Saran-2234/Chozha-Boys-Hostel-Management-System"><img src="https://img.shields.io/badge/🎨_Frontend_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Code" /></a>
+</p>
 
 **Tech Stack:**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,postgres,html,css&theme=dark&perline=7" alt="Hostel Management Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,html,css&theme=dark&perline=7" alt="PERN Stack" />
 </a>
 
-**Description:**  
-A full-stack web application designed to streamline and digitize hostel operations including student records management, room allocation, and fee tracking.
+- 🏗️ **Problem & Solution:** Developed a production-grade digital backbone for **Chozha Boys Hostel** to automate attendance, complaint redressal, and financial records for **100+ students**
+- 💳 **Financial Integrity:** Integrated **Cashfree Payment Gateway** with a robust Webhook-first architecture, ensuring **100% transaction reliability** even during network failures or browser crashes
+- 🔐 **Security & Scalability:** Implemented **Role-Based Access Control (RBAC)** using JWT/Passport.js and integrated **Redis (Upstash)** for sliding-window rate limiting to prevent DDoS and API abuse
+- ⚡ **Technical Excellence:** Optimized data flow using **React Router v6 Data Loaders** to eliminate "flashes of unauthenticated content" and structured a **normalized PostgreSQL schema** to maintain ACID compliance for financial data
 
-**Key Highlights:**
-- 🎨 Designed a **user-friendly and responsive UI** using HTML & CSS
-- ⚙️ Implemented **backend logic and data processing** using Node.js & Express.js
-- 🗄️ Managed **PostgreSQL database** for efficient data storage and retrieval
-- 📈 Aimed at improving overall **hostel operational efficiency**
+---
+
+### 💬 Real-Time Chat Application | Full-Stack Developer (MERN Stack)
+
+<p>
+  <a href="https://chatapp-frontend-sandy-ten.vercel.app/"><img src="https://img.shields.io/badge/🔗_Live_App-6C63FF?style=for-the-badge" alt="Live App" /></a>
+  <a href="https://github.com/mega9789728960/chatapp_backend"><img src="https://img.shields.io/badge/⚙️_Backend_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Code" /></a>
+  <a href="https://github.com/mega9789728960/chatapp_frontend"><img src="https://img.shields.io/badge/🎨_Frontend_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Code" /></a>
+</p>
+
+**Tech Stack:**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css&theme=dark&perline=7" alt="MERN Stack" />
+</a>
+
+- �️ **Architecture:** Engineered a scalable frontend using **React 19 & Vite**, leveraging **Zustand** for lightweight, high-performance state management, replacing heavy boilerplate alternatives
+- 🔐 **Security & Auth:** Implemented industry-standard security by handling authentication via **HTTP-only JWT cookies**, mitigating XSS risks and ensuring session persistence
+- 🎨 **UX/UI Engineering:** Built a responsive, custom UI without third-party frameworks, featuring **glassmorphism design**, real-time skeleton loaders, and context-menu-based message management
+- � **Data Flow:** Designed robust API integration using **Axios interceptors** for credential management and implemented a custom file-handling pipeline converting image uploads to **Base64 for Cloudinary** storage
 
 ---
 
