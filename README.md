@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mega9789728960)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meganathan4137@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=B.E+Computer+Science+Student;Full-Stack+Web+Developer;Problem+Solver+%7C+147%2B+LeetCode+Problems;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=B.E+Computer+Science+Student;Full-Stack+Web+Developer;Problem+Solver+%7C+147%2B+LeetCode+Problems;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
