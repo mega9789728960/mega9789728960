@@ -30,33 +30,12 @@ I am a curious and dedicated Software Developer who enjoys solving real-world pr
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 <div align="center">
 
-### 💻 Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Programming Languages" />
-</a>
-
-### 🌐 Frontend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend" />
-</a>
-
-### ⚙️ Backend & Runtime
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
-</a>
-
-### 🗄️ Databases
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
-</a>
-
-### 🔧 Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,nodejs,express,mysql,postgres,mongodb,git,github,vscode&theme=dark&perline=8" alt="Skills" />
 </a>
 
 </div>
