@@ -36,7 +36,7 @@ I am a curious and dedicated Software Developer who enjoys solving real-world pr
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,nodejs,express,mysql,postgres,mongodb,git,github,vscode&theme=dark&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,html,css,nodejs,express,mysql,postgres,mongodb,git,github&theme=dark&perline=8" alt="Skills" />
 </a>
 
 </div>
