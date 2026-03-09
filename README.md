@@ -95,7 +95,7 @@ A full-stack web application designed to streamline and digitize hostel operatio
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/benmega500?theme=dark&font=Fira%20Code&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/benmega500?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/benmega500/)
 
 </div>
 
@@ -126,9 +126,9 @@ A full-stack web application designed to streamline and digitize hostel operatio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mega9789728960&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mega9789728960&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mega9789728960&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mega9789728960&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" height="180" />
 
 <br/><br/>
 
